@@ -1,0 +1,57 @@
+[
+  {
+    "category": "food",
+    "amount": 50.0,
+    "description": "Lunch"
+  },
+  {
+    "category": "food",
+    "amount": 60.0,
+    "description": "Lunch"
+  },
+  {
+    "category": "transport",
+    "amount": 30.0,
+    "description": "Train"
+  },
+  {
+    "category": "food",
+    "amount": 22.0,
+    "description": "Breakfast"
+  },
+  {
+    "category": "bills",
+    "amount": 100.0,
+    "description": "Phone"
+  },
+  {
+    "category": "food",
+    "amount": 50.0,
+    "description": "lunch"
+  },
+  {
+    "category": "food",
+    "amount": 60.0,
+    "description": "lunch"
+  },
+  {
+    "category": "food",
+    "amount": 90.0,
+    "description": "breakfast"
+  },
+  {
+    "category": "transport",
+    "amount": 30.0,
+    "description": "train"
+  },
+  {
+    "category": "bills",
+    "amount": 70.0,
+    "description": "phone"
+  },
+  {
+    "category": "class",
+    "amount": 30.0,
+    "description": "class"
+  }
+]
